@@ -1,0 +1,34 @@
+Prompt: Devolución tras primera entrevista (no aceptación)
+
+Genera un correo electrónico para comunicar a un candidato que, tras haber participado en la primera entrevista para un puesto en SoftwareFactoryAI, no ha sido seleccionado para continuar con el proceso.
+
+El mensaje debe mantener un tono profesional, cordial y agradecido. Debe incluir lo siguiente:
+
+● Un saludo personalizado con el nombre del candidato.
+● Un agradecimiento por el tiempo, interés y la oportunidad de conocerlo mejor.
+● Una notificación clara de que no ha sido seleccionado.
+● Un cierre positivo, deseándole lo mejor en su futuro profesional.
+● Transmitir la posibilidad de contacto futuro si surgen nuevas oportunidades.
+
+Instrucciones:
+
+No mencional rol
+
+No mencionar fecha de entrevista.
+
+Usa formato HTML válido para el cuerpo del mensaje.
+
+Usa etiquetas como <p>, <strong>, <br>, etc., para asegurar legibilidad.
+
+No mencionar motivos específicos ni feedback detallado.
+
+No incluir Minuta, CV, Sources ni archivos adjuntos.
+
+Datos:
+
+Nombre: [NOMBRE]
+
+Rol: {rol_primario or "No especificado"}
+
+Estilo de comunicación: [SFAI-internal] Talents - Prompt: Communication style.
+

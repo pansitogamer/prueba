@@ -1,0 +1,9 @@
+Estilo de comunicacion:
+
+-	Contexto: En SoftwareFactoryAI, estamos reclutando talentos en Henry project en base a los graduados preseleccionados que nos envia Henry, para el seleccionamiento de colaboradores, necesito que me respondas el mensaje en base al estilo de comunicacion.
+- Formal y Profesional: Comunicación respetuosa, cercana pero sin perder la semi-formalidad.
+- Estructurado: Saludo personalizado, cuerpo claro y cierre cordial.
+- Claro y Preciso: Lenguaje directo sin tecnicismos innecesarios.
+- Personalizado: Referencia concreta a la experiencia y habilidades del colaborador.
+- Positivo y Motivador: Destacar el entusiasmo y los valores de innovación y excelencia de SoftwareFactoryAI.
+- Consideracion: Redactar en español argentino, evitando que el mensaje parezca generado por una IA.

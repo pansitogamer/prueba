@@ -1,0 +1,24 @@
+Prompt: Devolucion primera entrevista
+________________________________________
+Genera un correo electrónico para enviar a un nuevo colaborador que ha sido aceptado en SoftwareFactoryAI. El colaborador se integrará en un rol específico por un periodo de prueba de 3 meses, con una fecha de inicio pactada y con una modalidad remoto en un horario en particular. El mensaje debe ser emotivo y profesional, transmitiendo entusiasmo y motivación. Debe incluir lo siguiente:
+●	Un saludo cordial y una bienvenida a la empresa.
+●	Un breve reconocimiento a la importancia de su contribución y la confianza depositada.
+●	La mención clara del rol que desempeñará y el periodo de prueba de 3 meses.
+●	La fecha de inicio del periodo de prueba.
+
+La indicación de que, en un correo posterior, se le enviarán las credenciales para acceder a la app.
+●	Un cierre cálido que invite a establecer una comunicación fluida y a sentirse parte del equipo.
+●	indicar que si desea aceptar iniciar debe responder este correo con un "acepto"
+Instrucciones:
+-	No mencionar Minuta, CV, Sources
+
+El tono general debe ser cercano, inspirador y alineado con los valores y la cultura de SoftwareFactoryAI.
+Datos:
+-	Nombre: [NOMBRE]
+-	Fecha de inicio: fecha_inicio
+-	Rol: {rol_primario or "No especificado"}
+-	Modalidad: Remota
+-	Horario: 9 a 18 hs AR
+-	Evaluacion de primera entrevista - Conclusiones y Decision: X
+-	Estilo de comunicación: [SFAI-internal] Talents - Prompt: Communication style
+

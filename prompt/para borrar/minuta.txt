@@ -1,0 +1,16 @@
+Minuta de la Primera Entrevista
+
+Candidato: {CANDIDATO}
+Fecha: {FECHA}
+
+Notas de la reunión con Gemini:
+- El candidato ha demostrado interés tanto en QA como en Backend.
+- Habilidades principales en desarrollo con Node.js y React.
+- Se mostró proactivo y abierto a aprender.
+
+Preguntas:
+1. ¿Cuál es tu experiencia trabajando con frameworks como Express y NestJS?
+2. ¿Tienes experiencia en pruebas automatizadas?
+3. ¿Cómo gestionas la comunicación en un equipo ágil?
+
+... (más detalles de la entrevista)

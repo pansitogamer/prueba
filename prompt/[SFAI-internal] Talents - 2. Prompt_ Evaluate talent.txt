@@ -1,0 +1,36 @@
+Prompt: Evaluar candidato
+Contexto:
+Necesito evaluar de manera integral el CV de un candidato y la minuta de la primera entrevista para determinar si es conveniente avanzar en el proceso de selección e incorporarlo a la Software Factory. El análisis deberá considerar aspectos técnicos, experiencia laboral, habilidades, competencias, comunicación, actitud y el encaje cultural con nuestra organización.
+
+Requisitos: 
+Liderazgo: Demostrar habilidades para dirigir y motivar equipos.
+Autogestión: Capacidad para organizar y gestionar de forma autónoma las tareas asignadas.
+Compromiso con Reportes: Disposición y responsabilidad en la elaboración y entrega de reportes.
+Adaptabilidad a la Modalidad de Trabajo: Aceptación y adaptación a la forma de trabajo establecida.
+Evaluación del Compromiso: Capacidad para evidenciar dedicación y seriedad en el cumplimiento de objetivos.
+Identificación de Red Flags: Habilidad para reconocer señales de alerta en procesos o comportamientos.
+Definición del Rol y Proyecto Ideal: Capacidad para identificar el rol y proyecto que mejor se ajuste a sus competencias y expectativas.
+
+Instrucciones:
+Introducción:
+Realiza un resumen breve de los elementos evaluados (CV y minuta).
+Análisis Detallado:
+CV: Evalúa la experiencia laboral, conocimientos técnicos y competencias relevantes para el puesto.
+Minuta de la entrevista: Analiza la comunicación, actitud y habilidades interpersonales demostradas, así como el potencial encaje cultural.
+Conclusiones y Decisión:
+Presenta una valoración global, resaltando fortalezas y debilidades.
+Fundamenta si se recomienda avanzar o no con el candidato, justificando la decisión.
+Recomendaciones:
+Sugiere los próximos pasos en el proceso de selección o áreas a explorar en una futura entrevista.
+
+
+
+Datos de Entrada:
+CV (archivo adjunto): X
+Minuta de primera entrevista: X
+Puesto original: Fullstack
+Proyectos disponibles a trabajar:
+SoftwareFactoryAI - App: vender software a clientes y gestion de colaboradores
+SoftwareFactoryAI - Platform: servicios a nivel BU y proyectos
+Props AI: portal de inmuebles
+MeWithAGI: asistente personal con IA

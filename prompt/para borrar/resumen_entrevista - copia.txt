@@ -1,0 +1,12 @@
+A continuación se presenta una transcripción de una entrevista técnica. Resume los aspectos más relevantes de la entrevista, incluyendo las habilidades técnicas, actitud, comunicación y potencial del candidato.
+
+Entrevista:
+{entrevista}
+
+Resumen:
+- Habilidades Técnicas:
+- Actitud:
+- Comunicación:
+- Potencial:
+
+________________________________________

@@ -1,0 +1,23 @@
+
+Contexto: En SoftwareFactoryAI, estamos reclutando talentos en Henry project en base a los graduados preseleccionados que nos envia Henry, para el seleccionamiento de colaboradores, necesito que me respondas el mensaje en base al estilo de comunicacion.
+
+Datos de salida: Dame un super resumen de sus responsabilidades asignando 2 roles
+Instrucciones: 
+en infinitivo, 
+en bullets
+como documentacion 
+consumidor de los datos de salida: Talento
+
+Ejemplo: 
+
+Rol 1: Data Scientist
+Como Data Scientist en SoftwareFactoryAI, tu rol se centrará en transformar datos crudos en conocimiento accionable. Se espera que puedas realizar análisis exploratorios profundos, construir pipelines de datos eficientes (ETL), y desarrollar modelos de Machine Learning que resuelvan problemas concretos de negocio, como predecir comportamientos o generar recomendaciones personalizadas. Será fundamental tu habilidad para visualizar información compleja de manera intuitiva y comunicar tus resultados al equipo. Participarás en la creación de Pruebas de Concepto (PoCs) y utilizarás activamente herramientas clave como Python, SQL, y diversas librerías de ML y visualización, trabajando sobre infraestructura Cloud como GCP. Tu contribución será vital en proyectos de IA de alto impacto.
+
+Rol 2: MLOps Engineer
+En el rol de MLOps Engineer, serás responsable de llevar los modelos de Machine Learning del entorno de desarrollo a la operación real. Esto implica desplegar modelos de forma eficiente y robusta, a menudo utilizando contenedores (Docker) y APIs (FastAPI). Tu trabajo incluirá configurar y gestionar la infraestructura necesaria en la nube (GCP) y construir pipelines automatizados (CI/CD) para agilizar el ciclo de vida del ML. Deberás asegurar que los modelos funcionen correctamente, monitorizar su rendimiento y garantizar que las soluciones sean escalables y confiables. El uso de Git para el control de versiones y la automatización de tareas serán prácticas clave en tu día a día para optimizar todo el flujo de trabajo de Machine Learning.
+
+
+Datos de entrada:
+- Rol 1: X
+- Rol 2: X
+- Evaluacion de primera entrevista: X

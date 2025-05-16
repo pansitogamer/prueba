@@ -1,0 +1,15 @@
+2025-05-10T08:44:35.941862 - Procesando: Santiago Morandi
+2025-05-10T08:44:41.148368 - ✅ Carpeta de Drive creada para Santiago Morandi con ID 19XHvYuoyQ1AbtQUUzDiOEEoXWMJ9lAfv
+2025-05-10T08:44:46.855711 - ✅ Minuta creada para Santiago Morandi: output\Santiago Morandi\[SFAI-internal] Talents - Santiago Morandi - 1. First interview_ Minuta.docx
+2025-05-10T08:44:52.171977 - ✅ Minuta subida a Drive para Santiago Morandi: https://drive.google.com/file/d/1xr85-h4oAdLP92hrLAoYmV2XF3JV29lX/view
+2025-05-10T08:44:58.812378 - ✅ Evaluación creada para Santiago Morandi: output\Santiago Morandi\[SFAI-internal] Talents - Santiago Morandi - 2. First interview_ Evaluation.docx
+2025-05-10T08:45:04.633968 - ✅ Evaluación subida a Drive para Santiago Morandi: https://drive.google.com/file/d/1BV9CMOicqELUfPOkUBbhanC9xCJlXEp0/view
+2025-05-10T08:45:08.265787 - ❌ Usuario decidió no contratar a Santiago Morandi
+2025-05-11T18:36:25.571920 - Procesando: Santiago Morandi
+2025-05-11T18:36:30.098562 - ✅ Carpeta de Drive creada para Santiago Morandi con ID 14qNWslWILiAh8Lj8-wobU7n01pT43BUr
+2025-05-11T18:36:34.924763 - ✅ Minuta creada para Santiago Morandi: output\Santiago Morandi\[SFAI-internal] Talents - Santiago Morandi - 1. First interview_ Minuta.docx
+2025-05-11T18:36:40.464279 - ✅ Minuta subida a Drive para Santiago Morandi: https://drive.google.com/file/d/1WrKuWvp0yYHKz3e-f0mL_n-XRPfyY6oy/view
+2025-05-11T18:36:47.315532 - ✅ Evaluación creada para Santiago Morandi: output\Santiago Morandi\[SFAI-internal] Talents - Santiago Morandi - 2. First interview_ Evaluation.docx
+2025-05-11T18:36:54.755763 - ✅ Evaluación subida a Drive para Santiago Morandi: https://drive.google.com/file/d/1CITfs6_9YGz1RBTGAHphNdaIsnCoG2yc/view
+2025-05-11T18:38:24.346833 - ✅ Usuario aprobó la contratación para Santiago Morandi
+2025-05-11T18:38:44.666390 - ✅ Archivo de responsabilidades creado para Santiago Morandi: output\Santiago Morandi\[SFAI-open] Talents - Santiago Morandi - Responsabilidades.docx

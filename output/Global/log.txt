@@ -1,0 +1,4 @@
+2025-05-10T07:57:09.018988 - 🟡 Inicio del procesamiento de candidatos
+2025-05-10T08:45:18.677870 - 🟢 Fin del procesamiento de candidatos
+2025-05-11T18:35:21.041555 - 🟡 Inicio del procesamiento de candidatos
+2025-05-11T18:38:54.604637 - 🟢 Fin del procesamiento de candidatos

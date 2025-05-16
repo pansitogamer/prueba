@@ -1,0 +1,5 @@
+Crear preguntas para primera entrevista
+
+Dame preguntas de entrevista para hacerle a un recién graduado de henry de forma resumida y cual seria el objetivo por cada pregunta 
+
+Rol esperado: Fullstack

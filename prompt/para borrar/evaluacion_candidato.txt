@@ -1,0 +1,11 @@
+A continuación se presenta el resumen de una entrevista técnica. Evalúa si el candidato debería continuar en el proceso de selección. Considera aspectos técnicos, actitud, comunicación y potencial.
+
+Resumen:
+{resumen}
+
+Responde con el siguiente formato estructurado, sin agregar texto adicional fuera de ese formato:
+
+Decisión: [Sí o No]
+Motivo: [explica brevemente tu decisión]
+
+

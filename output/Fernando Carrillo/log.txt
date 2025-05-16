@@ -1,0 +1,16 @@
+2025-05-10T07:57:09.036875 - Procesando: Fernando Carrillo
+2025-05-10T07:57:15.320347 - ✅ Carpeta de Drive creada para Fernando Carrillo con ID 1X2GNVVKw18VyqUwwfNoWyc93Y5ubJ1Xk
+2025-05-10T07:57:20.418976 - ✅ Minuta creada para Fernando Carrillo: output\Fernando Carrillo\[SFAI-internal] Talents - Fernando Carrillo - 1. First interview_ Minuta.docx
+2025-05-10T07:57:25.921681 - ✅ Minuta subida a Drive para Fernando Carrillo: https://drive.google.com/file/d/1eZC9JBOLRCtFYsDDkF3oLplKx6q7g8fC/view
+2025-05-10T07:57:31.940226 - ✅ Evaluación creada para Fernando Carrillo: output\Fernando Carrillo\[SFAI-internal] Talents - Fernando Carrillo - 2. First interview_ Evaluation.docx
+2025-05-10T07:57:38.409531 - ✅ Evaluación subida a Drive para Fernando Carrillo: https://drive.google.com/file/d/13rLOd8grVBKCqe9_jRK8sS3C6p2rKJnM/view
+2025-05-10T08:44:05.496932 - ✅ Usuario aprobó la contratación para Fernando Carrillo
+2025-05-10T08:44:24.444123 - ✅ Archivo de responsabilidades creado para Fernando Carrillo: output\Fernando Carrillo\[SFAI-open] Talents - Fernando Carrillo - Responsabilidades.docx
+2025-05-11T18:35:21.099606 - Procesando: Fernando Carrillo
+2025-05-11T18:35:26.320041 - ✅ Carpeta de Drive creada para Fernando Carrillo con ID 1Iscu6S3lykndoRlVr3PcOSfmVQ6eqo3I
+2025-05-11T18:35:31.816044 - ✅ Minuta creada para Fernando Carrillo: output\Fernando Carrillo\[SFAI-internal] Talents - Fernando Carrillo - 1. First interview_ Minuta.docx
+2025-05-11T18:35:37.300089 - ✅ Minuta subida a Drive para Fernando Carrillo: https://drive.google.com/file/d/1mBDaRyfPR0yTR4O0SFzfHR-Nm_0faPsn/view
+2025-05-11T18:35:43.728556 - ✅ Evaluación creada para Fernando Carrillo: output\Fernando Carrillo\[SFAI-internal] Talents - Fernando Carrillo - 2. First interview_ Evaluation.docx
+2025-05-11T18:35:50.899537 - ✅ Evaluación subida a Drive para Fernando Carrillo: https://drive.google.com/file/d/1xKpBgUaBywqTwYC_iQUGrkmhLhZ27ImG/view
+2025-05-11T18:35:53.346131 - ✅ Usuario aprobó la contratación para Fernando Carrillo
+2025-05-11T18:36:15.372951 - ✅ Archivo de responsabilidades creado para Fernando Carrillo: output\Fernando Carrillo\[SFAI-open] Talents - Fernando Carrillo - Responsabilidades.docx
